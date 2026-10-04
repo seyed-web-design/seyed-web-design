@@ -1,8 +1,8 @@
-# 🖤 Hey, I'm YOUR_USERNAME
+# 🖤 Hey, I'm seyed-web-design
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=YOUR_USERNAME&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=seyed-web-design&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 ### 💻 Web Developer
 
